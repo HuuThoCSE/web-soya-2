@@ -1,1 +1,2 @@
-# web-soya-2
+# web-minesoya
+web-minesoya by juto2k3
